@@ -4,3 +4,5 @@ Requirment ware :
 - Creating repository for this website
 - Pulishing this website 
 - sharing the link to the discussion board
+
+You can also see my [LinkedIn](https://www.linkedin.com/in/doston-sanatovich-30100a208/) page for more projects
