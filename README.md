@@ -1,7 +1,7 @@
 # PacMen
 
 PacMen is project assignment given by MIT xPro for development of the javascript development and DOM control skills.
-This project is built on the basis of 2 main languages : 
+This project is built on the basis of following languages : 
 - HTML 
 - Javascript
 - Some CSS scripts
